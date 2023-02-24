@@ -1,8 +1,6 @@
 /*
  * Sys.c
- *
- *  Author: Mostafa Ghazolley
- *  Atmel Studio 7.0
+
  */ 
 
 #include "Sys.h"
