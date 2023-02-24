@@ -1,8 +1,6 @@
 /*
  * led.c
- *
- *  Author: Mostafa Ghazolley
- *  Atmel Studio 7.0
+ 
  */ 
 
 
