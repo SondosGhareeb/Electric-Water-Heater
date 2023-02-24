@@ -1,8 +1,6 @@
 /*
  * ADC.h
- *
- * Created: 3/22/2021 9:29:25 AM
- *  Author: Hatem
+ 
  */ 
 
 
