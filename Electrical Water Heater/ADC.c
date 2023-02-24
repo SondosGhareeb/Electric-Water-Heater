@@ -1,8 +1,6 @@
 /*
  * ADC.c
- *
- * Created: 3/22/2021 9:29:36 AM
- *  Author: Hatem
+
  */ 
 
 #include "ADC.h"
