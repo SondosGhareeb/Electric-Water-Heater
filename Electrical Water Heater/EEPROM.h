@@ -1,8 +1,7 @@
 /*
  * EEPROM.h
  *
- *  Author: Mostafa Ghazolley
- *  Atmel Studio 7.0
+
  */ 
 
 
